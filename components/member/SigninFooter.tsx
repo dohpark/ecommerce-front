@@ -8,7 +8,6 @@ const Container = styled.div`
   align-items: center;
   height: 82px;
   background-color: ${palette.white};
-  border-top: 1px solid ${palette.grayLine};
 `;
 
 const Button = styled.button`
